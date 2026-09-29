@@ -1,0 +1,26 @@
+{
+  "podcast": {
+    "status": "completed",
+    "jobId": "9685c29f-8073-4881-be71-141b19ac9ad8",
+    "sourceUrls": {
+      "audio": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_audio/tts/d600a9de-0d10-4369-a5a2-798ce6eb3fea.mp3",
+      "coverImage": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_images_bucket/image/0ae839d6-031e-4e66-93c2-ca9cc7a7fa96.jpg"
+    }
+  },
+  "document": {
+    "status": "completed",
+    "jobId": "211aebcb-a0e5-412c-96ec-baec457c66d3",
+    "sourceUrls": {
+      "pdf": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated-document/Separating-Analysis-and-Decision-Roles-in-Complex-Decisions-9ef7a56a-305d-4dc3-9325-bc185821d705.pdf",
+      "coverImage": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_images_bucket/snapshots/4021/cover/frontCover_7d964776-9e97-47b4-88c4-b2d13410e2d6.jpg"
+    }
+  },
+  "presentation": {
+    "status": "completed",
+    "jobId": "af648eae-7928-43f1-b78e-17f135c02d2b",
+    "sourceUrls": {
+      "presentation": "https://ai.jamesscott.tech/share/presentation/e144b27a-90c6-429b-95ff-25e2c1d53a0d"
+    },
+    "presentationUrl": "https://ai.jamesscott.tech/share/presentation/e144b27a-90c6-429b-95ff-25e2c1d53a0d"
+  }
+}
