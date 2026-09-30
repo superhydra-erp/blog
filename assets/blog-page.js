@@ -126,13 +126,11 @@ function cleanArticleHtml(article) {
     if (isRelative) img.src = `${dataDir}/${src}`;
   });
 
-  const firstChild = article.firstElementChild;
-  const leadFigure = firstChild?.matches("figure")
-    ? firstChild
-    : firstChild?.matches("article")
-      ? firstChild.querySelector(":scope > figure:first-child")
-      : null;
-  if (leadFigure) leadFigure.remove();
+}
+
+function extractArticleHtml(html) {
+  const doc = new DOMParser().parseFromString(html, "text/html");
+  return doc.querySelector("article")?.innerHTML || html;
 }
 
 async function init() {
@@ -161,7 +159,7 @@ async function init() {
     byId("image-caption").textContent = meta.imageAltText || "";
 
     const article = byId("article");
-    article.innerHTML = html;
+    article.innerHTML = extractArticleHtml(html);
     cleanArticleHtml(article);
 
     byId("support").replaceChildren(
