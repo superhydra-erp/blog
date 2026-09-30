@@ -1,0 +1,70 @@
+{
+  "title": "How to Grade Source Reliability During a Fast-Moving Crisis",
+  "slug": "grade-source-reliability-during-crisis",
+  "publishedDate": "2026-09-30",
+  "readingTimeMinutes": 9,
+  "excerpt": "Fast-moving crises require more than a general credibility impression. This article explains how to assess the source and the specific claim separately, use unknown ratings when evidence is insufficient, check whether corroboration is truly independent, and document uncertainty so later readers can审",
+  "seoTitle": "How to Grade Source Reliability During a Crisis",
+  "metaDescription": "Learn a practical crisis intelligence method for grading source reliability separately from information confidence, documenting uncertainty, and checking corroboration.",
+  "keywords": [
+    "How to Grade Source Reliability During a Fast-Moving Crisis",
+    "crisis intelligence",
+    "forensic crisis intelligence",
+    "decision-grade analysis",
+    "forensics"
+  ],
+  "imageAltText": "How to Grade Source Reliability During a Fast-Moving Crisis featured image about crisis intelligence",
+  "metaRobots": "index, follow",
+  "canonicalPath": "/grade-source-reliability-during-crisis",
+  "ogTitle": "How to Grade Source Reliability During a Crisis",
+  "ogDescription": "Learn a practical crisis intelligence method for grading source reliability separately from information confidence, documenting uncertainty, and checking corroboration.",
+  "ogType": "article",
+  "ogImage": "featured-image.webp",
+  "twitterCard": "summary_large_image",
+  "twitterTitle": "How to Grade Source Reliability During a Crisis",
+  "twitterDescription": "Learn a practical crisis intelligence method for grading source reliability separately from information confidence, documenting uncertainty, and checking corroboration.",
+  "twitterImage": "featured-image.webp",
+  "openGraph": {
+    "title": "How to Grade Source Reliability During a Crisis",
+    "description": "Learn a practical crisis intelligence method for grading source reliability separately from information confidence, documenting uncertainty, and checking corroboration.",
+    "type": "article",
+    "image": "featured-image.webp"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "How to Grade Source Reliability During a Crisis",
+    "description": "Learn a practical crisis intelligence method for grading source reliability separately from information confidence, documenting uncertainty, and checking corroboration.",
+    "image": "featured-image.webp"
+  },
+  "category": "crisis intelligence",
+  "topic": "How to Grade Source Reliability During a Fast-Moving Crisis",
+  "featuredImage": "featured-image.webp",
+  "originalImage": "featured-image.png",
+  "authorityPack": "authority-pack.json",
+  "externalMedia": {
+    "podcast": {
+      "status": "completed",
+      "jobId": "1f095a77-c5ab-42b0-ba0f-a0beca5b15ae",
+      "sourceUrls": {
+        "audio": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_audio/tts/9701cb5e-a5fd-4eb2-bf2c-a4abc838724a.mp3",
+        "coverImage": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_images_bucket/image/4f9bb85d-c975-4550-8d06-261e86b23e6d.jpg"
+      }
+    },
+    "document": {
+      "status": "completed",
+      "jobId": "0f231b96-92c4-4329-b0f0-772feb6b57ff",
+      "sourceUrls": {
+        "pdf": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated-document/Crisis-Source-and-Information-Reliability-Evaluation-Using-FIRST-A-to-F-Model-08e605b1-7c51-4960-9d85-8d7e40091b09.pdf",
+        "coverImage": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_images_bucket/snapshots/4023/cover/frontCover_5c400b23-d311-44c4-9d00-98c430e50bbc.jpg"
+      }
+    },
+    "presentation": {
+      "status": "completed",
+      "jobId": "4d3d3dc0-5348-4064-b0c7-93ffce18bde1",
+      "sourceUrls": {
+        "presentation": "https://ai.jamesscott.tech/share/presentation/45b296c4-3753-4c22-b228-9f5b0312ee96"
+      },
+      "presentationUrl": "https://ai.jamesscott.tech/share/presentation/45b296c4-3753-4c22-b228-9f5b0312ee96"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "podcast": {
+    "status": "completed",
+    "jobId": "7e67b5a1-d90d-4111-b144-d81066b7d5e8",
+    "sourceUrls": {
+      "audio": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_audio/tts/66351db4-7847-48d8-9a55-4a9d3f90a2f7.mp3",
+      "coverImage": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_images_bucket/image/01cbceb4-9a1d-489a-bade-44d32b9a6669.jpg"
+    }
+  },
+  "document": {
+    "status": "completed",
+    "jobId": "f9a7005c-2ff4-44ae-b610-6cd8970d9efd",
+    "sourceUrls": {
+      "pdf": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated-document/Crisis-Intelligence-Requirements-Decision-Linked-Framework-c4dbf8bc-74e7-44c6-9a29-be6cc858e722.pdf",
+      "coverImage": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_images_bucket/snapshots/4022/cover/frontCover_862b432c-2d9b-4879-92a1-3c1a014101cd.jpg"
+    }
+  },
+  "presentation": {
+    "status": "completed",
+    "jobId": "fd9c4726-af0b-4e97-be3d-8d5f9b107a8b",
+    "sourceUrls": {
+      "presentation": "https://ai.jamesscott.tech/share/presentation/7aae9bb7-6099-4f20-a91d-134b7ffb8a12"
+    },
+    "presentationUrl": "https://ai.jamesscott.tech/share/presentation/7aae9bb7-6099-4f20-a91d-134b7ffb8a12"
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "version": "V3_FOUNDER_QUOTE_AUTHORITY",
+  "publicationStatus": "DRAFT_REQUIRES_HUMAN_APPROVAL",
+  "storySlug": {
+    "primaryHeadline": "How to Build an Intelligence Requirements Framework for Fast-Moving Crises",
+    "slug": "intelligence-requirements-framework-fast-moving-crises",
+    "dek": "Learn how to build a compact intelligence requirements framework for fast-moving crises by starting with decisions, assigning owners, using GIR/PIR/SIR structure, prioritizing collection, and adding review, access, and sharing rules.",
+    "thesis": "Fast-moving crisis intelligence should start with pending decisions, then translate those decisions into owned, prioritized, reviewable intelligence requirements, collection questions, assumptions, access rules, and update triggers.",
+    "publicationDate": "2026-09-30"
+  },
+  "article": {
+    "markdown": "blog.md",
+    "html": "blog.html",
+    "requiredFiles": [
+      "blog.md",
+      "blog.html",
+      "blog.json",
+      "sources.json"
+    ]
+  },
+  "visualPack": {
+    "thesis": "Show crisis intelligence as a decision-to-requirements workflow: decision owner, PIR/SIR hierarchy, collection matrix, stakeholder review, and access-sharing safeguards.",
+    "figures": [
+      {
+        "title": "Decision First, Feed Second",
+        "purpose": "Illustrate the central workflow from pending decision to owner, PIR, SIR, indicators, collection window, and review point.",
+        "dataSources": [
+          "https://flashpoint.io/blog/why-intelligence-requirements-fall-flat-priority-intelligence-requirements",
+          "https://analyst1.com/cyberpedia/intelligence-requirements-explained",
+          "https://lineofdeparture.army.mil/Journals/Military-Intelligence/MIPB-January-June-2024/Properly-Refining-Priority-Intelligence-Requirements"
+        ],
+        "altText": "A clean editorial flowchart showing a crisis decision moving into an owner, PIR, SIR, indicators, collection window, and review point.",
+        "caption": "Requirements-driven intelligence begins with the decision to be made, then defines owned PIRs, SIRs, indicators, collection windows, and review points."
+      },
+      {
+        "title": "Compact Crisis Requirements Matrix",
+        "purpose": "Provide a reusable visual artifact showing supported matrix fields without inventing sector-specific examples.",
+        "dataSources": [
+          "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/intelligence-requirements-framework",
+          "https://lineofdeparture.army.mil/Journals/Military-Intelligence/MIPB-January-June-2024/Properly-Refining-Priority-Intelligence-Requirements"
+        ],
+        "altText": "A blank crisis requirements matrix with columns for requirement, owner, priority, PIR, SIR, indicators, sources, decision point, assumptions, and collection window.",
+        "caption": "A compact matrix preserves traceability between the decision, requirement, collection question, assumptions, and review point."
+      },
+      {
+        "title": "Ownership and Review Loop",
+        "purpose": "Show stakeholder input, draft requirements, feedback, scoring, ranking, and collection guidance as an iterative process.",
+        "dataSources": [
+          "https://knowledge.threatconnect.com/docs/best-practices-intelligence-requirements",
+          "https://dataminr.com/resources/blog/create-intelligence-requirements-in-5-easy-steps",
+          "https://intel471.com/open-source-release-of-intel-471-intelligence-requirements-framework",
+          "https://analyst1.com/cyberpedia/intelligence-requirements-explained"
+        ],
+        "altText": "A circular diagram showing stakeholders, draft requirements, feedback, scoring and ranking, collection guidance, intelligence products, and review.",
+        "caption": "Requirements stay useful when stakeholder engagement, ownership, ranking, dissemination, and review are treated as a loop."
+      },
+      {
+        "title": "Access and Sharing as Design Constraints",
+        "purpose": "Visualize information integrity and data responsibility as requirements fields, not after-the-fact compliance notes.",
+        "dataSources": [
+          "https://carnegieendowment.org/research/2023/11/emergency-management-and-information-integrity-a-framework-for-crisis-response",
+          "https://scientificadvice.eu/scientific-outputs/artificial-intelligence-in-emergency-and-crisis-management-rapid-evidence-review-report"
+        ],
+        "altText": "An editorial diagram showing collect, access, share, protect, and act as labeled checkpoints around a crisis information requirement.",
+        "caption": "Crisis requirements should specify who may collect, access, share, protect, and act on information before collection begins."
+      }
+    ],
+    "heroPrompt": "Editorial illustration of a crisis intelligence workflow on a neutral operations board: blank decision card, owner tag, PIR and SIR layers, indicators, collection window, review trigger, and access-sharing controls; no people, no logos, no fabricated data.",
+    "supportPrompt": "Clean vector infographic of a blank compact crisis requirements matrix with supported fields only: requirement, owner, priority, timing, PIR, SIR, indicators, sources, collection method, assumptions, decision point, and review point; no brand marks.",
+    "socialPrompt": "Minimal editorial graphic with the phrase “Start with the decision, not the feed” beside a generic flow from decision to PIR to SIR to review; no logos, no real people, no invented statistics.",
+    "integrityNotes": [
+      "Use only approved source URLs in captions and source notes.",
+      "Do not visualize fabricated crisis data, casualties, maps, logos, or named organizations.",
+      "Keep matrices blank or illustrative; avoid invented sector-specific operational examples.",
+      "Label founder quotes as draft commentary, not evidence."
+    ]
+  },
+  "searchAndTechnicalPack": {
+    "intentQueryMap": [
+      "how to build intelligence requirements framework for crisis response",
+      "priority intelligence requirements PIR SIR crisis intelligence",
+      "decision linked intelligence requirements collection matrix",
+      "crisis intelligence requirements for governments NGOs infrastructure operators",
+      "information integrity crisis response data sharing requirements"
+    ],
+    "entities": [
+      "intelligence requirements",
+      "Priority Intelligence Requirements",
+      "Specific Intelligence Requirements",
+      "General Intelligence Requirements",
+      "crisis intelligence",
+      "forensic crisis intelligence",
+      "decision-grade analysis",
+      "collection requirements",
+      "information collection matrix",
+      "information integrity crisis response agriculture? no; emergency management information integrity only"
+    ],
+    "retrievalFacts": [
+      "Flashpoint states requirements-driven intelligence shifts the question from what data can be obtained to what decisions need to be made.",
+      "Analyst1 states every intelligence requirement should be tied to a decision and owned by a stakeholder.",
+      "The Army article states an information collection matrix should include PIRs, indicators, SIRs, decision points, collection time windows, and collection capabilities.",
+      "Umbrex recommends a compact matrix with requirement, why it matters, priority, decision owner, timing, indicators, sources, and collection method.",
+      "Intel 471 describes recording PIRs in a master PIR Collection Register, then scoring, ranking, and combining them into collection guidance.",
+      "Carnegie frames information integrity as a coordination issue across multiple stakeholders during crisis response.",
+      "The Scientific Advice Mechanism rapid evidence review discusses secure, privacy-preserving, rapid data sharing between emergency services, NGOs, and governments."
+    ],
+    "internalLinkTargets": [
+      "Article: How to Build an Intelligence Requirements Framework for Fast-Moving Crises",
+      "Topic hub: crisis intelligence",
+      "Topic hub: forensic crisis intelligence",
+      "Topic hub: decision-grade analysis"
+    ],
+    "structuredDataNotes": [
+      "Use Article schema with title, description, date fields controlled by the publishing system, and author/publisher fields verified by the site owner.",
+      "Include sameAs/source citations only for approved public sources used in the article.",
+      "Do not mark founder commentary as a cited factual source.",
+      "If quote cards are published, identify them as commentary by James Scott, Founder, Embassy-Row-Project."
+    ],
+    "crawlChecklist": [
+      "Ensure source URLs are crawlable and not blocked by accidental noindex on the article page.",
+      "Add descriptive headings for decision-first requirements, GIR/PIR/SIR hierarchy, stakeholder prioritization, matrix, and information integrity.",
+      "Use a concise meta description focused on decision-linked crisis intelligence requirements.",
+      "Add alt text to all visual assets describing the framework, not fabricated crisis scenes.",
+      "Keep canonical URL stable and avoid parameterized duplicates."
+    ]
+  },
+  "founderQuotePack": [
+    {
+      "order": 1,
+      "quote": "The conventional mistake is treating crisis intelligence as a data problem. A decision-linked PIR forces the harder question: what choice changes, and which owner can act before collection consumes scarce capacity?",
+      "attribution": "James Scott, Founder, Embassy-Row-Project",
+      "quotableCore": "Crisis intelligence is not primarily a data problem; it is a decision-linkage problem.",
+      "anchoredFinding": "Requirements-driven intelligence starts with decisions, not available data feeds, and requirements should be tied to owners and actions.",
+      "evidenceBasis": [
+        "https://flashpoint.io/blog/why-intelligence-requirements-fall-flat-priority-intelligence-requirements",
+        "https://analyst1.com/cyberpedia/intelligence-requirements-explained",
+        "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/intelligence-requirements-framework"
+      ],
+      "factVsInterpretation": "The decision-linked requirement principle is sourced; the framing of this as the conventional mistake in crises is founder commentary.",
+      "whatItDoesNotProve": "It does not prove that all crisis intelligence failures are caused by data-first workflows or that PIRs alone solve crisis coordination.",
+      "personalExperienceCheck": "none_claimed",
+      "detachmentRisk": "low",
+      "confidence": "high",
+      "bestFit": "Contrarian tension",
+      "journalistCare": "Use as commentary challenging a common assumption; pair with independent sources for the decision-linked requirements claim.",
+      "score": {
+        "evidence": 20,
+        "specificity": 14,
+        "depth": 14,
+        "originality": 12,
+        "final": 99
+      }
+    },
+    {
+      "order": 2,
+      "quote": "GIR/PIR/SIR hierarchy is not jargon; it is a translation mechanism. GIRs hold strategic concern, PIRs expose operational decisions, and SIRs define observable indicators, so collection and dissemination do not drift apart.",
+      "attribution": "James Scott, Founder, Embassy-Row-Project",
+      "quotableCore": "The GIR/PIR/SIR hierarchy translates strategy into observable collection.",
+      "anchoredFinding": "The GIR, PIR, and SIR hierarchy can keep broad concerns, operational questions, and collection tasks aligned.",
+      "evidenceBasis": [
+        "https://flashpoint.io/blog/why-intelligence-requirements-fall-flat-priority-intelligence-requirements",
+        "https://lineofdeparture.army.mil/Journals/Military-Intelligence/MIPB-January-June-2024/Properly-Refining-Priority-Intelligence-Requirements",
+        "https://intel471.com/open-source-release-of-intel-471-intelligence-requirements-framework",
+        "https://analyst1.com/cyberpedia/intelligence-requirements-explained"
+      ],
+      "factVsInterpretation": "The hierarchy and its elements are sourced; describing it as a translation mechanism and warning about drift is interpretive commentary.",
+      "whatItDoesNotProve": "It does not prove that GIR/PIR/SIR terminology is the best vocabulary for every civil, humanitarian, or infrastructure crisis team.",
+      "personalExperienceCheck": "none_claimed",
+      "detachmentRisk": "low",
+      "confidence": "high",
+      "bestFit": "Mechanism",
+      "journalistCare": "Useful where a reporter needs a plain-language explanation of how requirements connect leaders, analysts, and collectors.",
+      "score": {
+        "evidence": 20,
+        "specificity": 14,
+        "depth": 14,
+        "originality": 11,
+        "final": 98
+      }
+    },
+    {
+      "order": 3,
+      "quote": "Operator rule: if a SIR lacks an indicator, source type, collection window, and decision point, it is not ready for tasking. The hidden cost is open-ended collection that arrives too late to matter.",
+      "attribution": "James Scott, Founder, Embassy-Row-Project",
+      "quotableCore": "A SIR without indicators, sources, windows, and decision points is not taskable.",
+      "anchoredFinding": "Useful SIRs should be detailed enough for collectors and analysts to know what would satisfy the requirement, including indicators, sources, collection windows, and decision points.",
+      "evidenceBasis": [
+        "https://lineofdeparture.army.mil/Journals/Military-Intelligence/MIPB-January-June-2024/Properly-Refining-Priority-Intelligence-Requirements",
+        "https://knowledge.threatconnect.com/docs/best-practices-intelligence-requirements",
+        "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/intelligence-requirements-framework"
+      ],
+      "factVsInterpretation": "The SIR, indicator, decision-point, collection-window, and source-method mechanics are sourced; the operator rule and hidden-cost language are commentary.",
+      "whatItDoesNotProve": "It does not prove a universal minimum data field standard for all organizations or crisis types.",
+      "personalExperienceCheck": "none_claimed",
+      "detachmentRisk": "low",
+      "confidence": "high",
+      "bestFit": "Operator rule",
+      "journalistCare": "Strong for practical sidebars or pull quotes; keep it framed as a rule of thumb grounded in the article’s synthesis.",
+      "score": {
+        "evidence": 20,
+        "specificity": 14,
+        "depth": 14,
+        "originality": 11,
+        "final": 98
+      }
+    },
+    {
+      "order": 4,
+      "quote": "Information integrity cannot be bolted on after collection. Requirements should name who may collect, access, share, and act, because privacy-preserving coordination shapes both crisis speed and public trust.",
+      "attribution": "James Scott, Founder, Embassy-Row-Project",
+      "quotableCore": "Access and sharing rules belong inside the requirement, not after collection.",
+      "anchoredFinding": "Information integrity and data responsibility belong inside requirements design, including secure, privacy-preserving sharing and role-based access.",
+      "evidenceBasis": [
+        "https://carnegieendowment.org/research/2023/11/emergency-management-and-information-integrity-a-framework-for-crisis-response",
+        "https://scientificadvice.eu/scientific-outputs/artificial-intelligence-in-emergency-and-crisis-management-rapid-evidence-review-report"
+      ],
+      "factVsInterpretation": "The information-integrity and privacy-preserving data-sharing principles are sourced; the assertion that they must be embedded in requirements is commentary based on the article’s synthesis.",
+      "whatItDoesNotProve": "It does not prove that a requirements framework alone can resolve legal, ethical, or interagency data-sharing conflicts.",
+      "personalExperienceCheck": "none_claimed",
+      "detachmentRisk": "low",
+      "confidence": "high",
+      "bestFit": "System implication",
+      "journalistCare": "Use when connecting intelligence requirements to governance, humanitarian data responsibility, or emergency-management coordination.",
+      "score": {
+        "evidence": 20,
+        "specificity": 13,
+        "depth": 14,
+        "originality": 12,
+        "final": 98
+      }
+    },
+    {
+      "order": 5,
+      "quote": "A crisis framework earns its keep when it stays compact and reviewable: name the decision, assign the owner, test assumptions, refresh triggers, and retire requirements that no longer change action.",
+      "attribution": "James Scott, Founder, Embassy-Row-Project",
+      "quotableCore": "Keep crisis requirements compact, reviewable, owned, and action-changing.",
+      "anchoredFinding": "The defensible method is to name the decision, assign an owner, write PIRs and SIRs, record assumptions, define review points, and keep requirements iterative.",
+      "evidenceBasis": [
+        "https://dataminr.com/resources/blog/create-intelligence-requirements-in-5-easy-steps",
+        "https://analyst1.com/cyberpedia/intelligence-requirements-explained",
+        "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/intelligence-requirements-framework",
+        "https://flashpoint.io/blog/why-intelligence-requirements-fall-flat-priority-intelligence-requirements"
+      ],
+      "factVsInterpretation": "The need for ownership, review, decision relevance, and evolving requirements is sourced; the compact operating principle is founder commentary.",
+      "whatItDoesNotProve": "It does not prove that a lightweight framework is sufficient for every regulated, classified, humanitarian, or critical-infrastructure environment.",
+      "personalExperienceCheck": "none_claimed",
+      "detachmentRisk": "low",
+      "confidence": "high",
+      "bestFit": "Durable principle",
+      "journalistCare": "Use as a closing quote or practical takeaway; do not present it as a formal standard or official doctrine.",
+      "score": {
+        "evidence": 19,
+        "specificity": 13,
+        "depth": 13,
+        "originality": 10,
+        "final": 95
+      }
+    }
+  ],
+  "journalistKit": {
+    "nutGraf": "A review of supplied 2023-2026 public sources supports a practical crisis intelligence framework: start with the decision, assign an owner, translate concerns into PIRs and SIRs, define indicators and collection windows, review requirements as conditions change, and build access-sharing safeguards into the design. The evidence supports a compact practitioner method, not a universal doctrine for every sector.",
+    "angles": [
+      "Decision-first crisis intelligence: why more data is not the same as better decisions.",
+      "How GIR/PIR/SIR language can help non-military crisis teams structure urgent collection questions.",
+      "The operational cost of vague SIRs and open-ended collection during fast-moving events.",
+      "Why information integrity and privacy-preserving data sharing should be designed before collection starts.",
+      "How to keep crisis requirements compact enough to use under pressure."
+    ],
+    "peopleToCall": [
+      "Emergency-management practitioner familiar with multi-stakeholder crisis coordination.",
+      "Humanitarian data responsibility specialist familiar with access controls and data-sharing agreements.",
+      "Critical-infrastructure resilience or security operator who can discuss decision-linked information needs.",
+      "Former or current intelligence requirements practitioner who can explain PIR/SIR refinement.",
+      "Legal or privacy expert familiar with crisis data sharing and vulnerable-subject protections."
+    ],
+    "rightsAndAttribution": [
+      "Founder quote cards are draft commentary attributed to James Scott, Founder, Embassy-Row-Project.",
+      "Independent public sources must be cited separately from founder commentary.",
+      "Do not imply James Scott personally built, measured, led, served, or observed the framework unless independently verified.",
+      "Do not use rejected sources as evidence.",
+      "Human editorial approval is required before publication."
+    ],
+    "methodCard": "Method: synthesis of supplied public sources and the already fact-checked article. Fact-check status passed with supported claims on decision-linked requirements, GIR/PIR/SIR hierarchy, stakeholder review, collection matrices, information integrity, and crisis data-sharing safeguards. Limits: evidence is not a full sector-specific doctrine and includes several cyber or vendor-adjacent sources.",
+    "risks": [
+      "Overstating a cross-sector doctrine where the sources support only a practical synthesis.",
+      "Importing cyber or military examples directly into humanitarian, government, or infrastructure contexts without adaptation.",
+      "Treating founder commentary as independent evidence.",
+      "Under-explaining update triggers, escalation thresholds, or sector-specific governance beyond the supplied evidence.",
+      "Making claims about personal experience or organizational implementation that are not supplied."
+    ],
+    "founderCommentaryTop2": [
+      1,
+      2
+    ]
+  },
+  "sourceLedger": [
+    {
+      "sourceUrl": "https://flashpoint.io/blog/why-intelligence-requirements-fall-flat-priority-intelligence-requirements",
+      "supportedFinding": "Requirements-driven intelligence starts with decisions; GIR/PIR/SIR hierarchy separates broad why, operational what, and tactical how; PIRs are dynamic.",
+      "limitation": "Cyber-oriented source; examples should not be copied wholesale into unrelated crisis contexts."
+    },
+    {
+      "sourceUrl": "https://analyst1.com/cyberpedia/intelligence-requirements-explained",
+      "supportedFinding": "Requirements should be tied to decisions, owned by stakeholders, and drive analysis and dissemination.",
+      "limitation": "Cyber-intelligence explainer; crisis adaptation is interpretive."
+    },
+    {
+      "sourceUrl": "https://lineofdeparture.army.mil/Journals/Military-Intelligence/MIPB-January-June-2024/Properly-Refining-Priority-Intelligence-Requirements",
+      "supportedFinding": "PIRs should be refined into indicators and SIRs, with decision points, collection windows, and collection capabilities in an information collection matrix.",
+      "limitation": "Military context; civilian crisis teams need careful translation."
+    },
+    {
+      "sourceUrl": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/intelligence-requirements-framework",
+      "supportedFinding": "A compact matrix can include requirement, purpose, priority, owner, timing, indicators, sources, and collection method; frameworks should be living and reviewable.",
+      "limitation": "Competitive-intelligence context rather than crisis doctrine."
+    },
+    {
+      "sourceUrl": "https://knowledge.threatconnect.com/docs/best-practices-intelligence-requirements",
+      "supportedFinding": "Stakeholder review, recurring meetings or survey-style feedback, finalized requirements, and collection requirements based on sources and tools.",
+      "limitation": "Cyber/vendor-adjacent guidance."
+    },
+    {
+      "sourceUrl": "https://dataminr.com/resources/blog/create-intelligence-requirements-in-5-easy-steps",
+      "supportedFinding": "Stakeholder input, collection requirements, and regular review schedules based on operational needs and threat velocity.",
+      "limitation": "Vendor source and not crisis-specific doctrine."
+    },
+    {
+      "sourceUrl": "https://intel471.com/open-source-release-of-intel-471-intelligence-requirements-framework",
+      "supportedFinding": "PIRs can be recorded in a master PIR Collection Register, scored, ranked, and combined into collection guidance.",
+      "limitation": "Cyber underground intelligence framework; scoring model details are not fully provided in the excerpt."
+    },
+    {
+      "sourceUrl": "https://carnegieendowment.org/research/2023/11/emergency-management-and-information-integrity-a-framework-for-crisis-response",
+      "supportedFinding": "Information integrity is a crisis-response coordination issue involving multiple stakeholders, including governments, private actors, civil society, and households.",
+      "limitation": "Supports coordination and integrity framing, not a detailed intelligence requirements template."
+    },
+    {
+      "sourceUrl": "https://scientificadvice.eu/scientific-outputs/artificial-intelligence-in-emergency-and-crisis-management-rapid-evidence-review-report",
+      "supportedFinding": "Crisis data sharing may require secure, privacy-preserving exchange between emergency services, NGOs, and governments, plus humanitarian data responsibility practices.",
+      "limitation": "Rapid evidence review excerpt; not a full operational requirements framework."
+    }
+  ],
+  "authorityPlan": {
+    "internalLinks": [
+      "Link this article from the crisis intelligence topic hub.",
+      "Link from any existing forensic crisis intelligence glossary or explainer page.",
+      "Link to related decision-grade analysis content if available.",
+      "Link future articles on information integrity, humanitarian data responsibility, and crisis collection planning back to this framework."
+    ],
+    "retrievalFacts": [
+      "Decision-linked requirements should be owned and tied to what would change action.",
+      "GIR/PIR/SIR hierarchy provides a vocabulary for broad concerns, operational questions, and tactical collection.",
+      "Information collection matrices can connect PIRs, indicators, SIRs, decision points, collection windows, and capabilities.",
+      "Requirements should be reviewed and iterated as stakeholder needs, operational risks, and threat velocity change.",
+      "Crisis data sharing and information integrity require explicit coordination, access, privacy, and protection considerations."
+    ],
+    "entityNotes": [
+      "Priority Intelligence Requirements and Specific Intelligence Requirements should be defined early for readers unfamiliar with intelligence practice.",
+      "Emergency management and information integrity should be connected carefully without claiming a single official crisis-intelligence doctrine.",
+      "Governments, NGOs, and infrastructure operators are target audiences; the article should avoid pretending the supplied sources fully document each sector.",
+      "Embassy-Row-Project founder commentary should support authority and framing, not replace source citations."
+    ]
+  },
+  "scorecard": {
+    "total": 96,
+    "editorial": 15,
+    "evidence": 19,
+    "searchAi": 13,
+    "technical": 9,
+    "visual": 8,
+    "trust": 4,
+    "packaging": 3,
+    "prose": 5
+  },
+  "killSwitch": {
+    "status": "SHIP",
+    "reasons": [
+      "Fact-check status is pass and core claims are supported by supplied sources.",
+      "Research quality limitations are acknowledged and do not prevent five high-confidence founder commentary cards.",
+      "All five founder quote cards meet the required evidence, specificity, depth, originality, and final-score floors.",
+      "Founder commentary avoids unverified personal experience claims and remains separate from independent evidence.",
+      "Publication remains draft-only pending human editorial approval."
+    ]
+  },
+  "imageMetadata": {
+    "png": {
+      "file": "featured-image.png",
+      "mimeType": "image/png",
+      "sizeBytes": 2407265,
+      "width": 1536,
+      "height": 1024
+    },
+    "webp": {
+      "file": "featured-image.webp",
+      "mimeType": "image/webp",
+      "sizeBytes": 99576,
+      "width": 1200,
+      "height": 800
+    }
+  }
+}

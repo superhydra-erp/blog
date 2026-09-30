@@ -1,0 +1,73 @@
+{
+  "title": "How to Build an Intelligence Requirements Framework for Fast-Moving Crises",
+  "slug": "intelligence-requirements-framework-fast-moving-crises",
+  "publishedDate": "2026-09-30",
+  "readingTimeMinutes": 9,
+  "excerpt": "Learn how to build a compact intelligence requirements framework for fast-moving crises by starting with decisions, assigning owners, using GIR/PIR/SIR structure, prioritizing collection, and adding review, access, and sharing rules.",
+  "seoTitle": "How to Build an Intelligence Requirements Framework for Crises",
+  "metaDescription": "A practical framework for turning fast-moving crisis decisions into intelligence requirements, PIRs, SIRs, collection questions, owners, assumptions, and review triggers.",
+  "keywords": [
+    "Crisis intelligence",
+    "forensic crisis intelligence",
+    "decision-grade analysis",
+    "governments",
+    "NGOs",
+    "infrastructure operators",
+    "global leaders",
+    "Forensics"
+  ],
+  "imageAltText": "How to Build an Intelligence Requirements Framework for Fast-Moving Crises featured image about Crisis intelligence",
+  "metaRobots": "index, follow",
+  "canonicalPath": "/intelligence-requirements-framework-fast-moving-crises",
+  "ogTitle": "How to Build an Intelligence Requirements Framework for Crises",
+  "ogDescription": "A practical framework for turning fast-moving crisis decisions into intelligence requirements, PIRs, SIRs, collection questions, owners, assumptions, and review triggers.",
+  "ogType": "article",
+  "ogImage": "featured-image.webp",
+  "twitterCard": "summary_large_image",
+  "twitterTitle": "How to Build an Intelligence Requirements Framework for Crises",
+  "twitterDescription": "A practical framework for turning fast-moving crisis decisions into intelligence requirements, PIRs, SIRs, collection questions, owners, assumptions, and review triggers.",
+  "twitterImage": "featured-image.webp",
+  "openGraph": {
+    "title": "How to Build an Intelligence Requirements Framework for Crises",
+    "description": "A practical framework for turning fast-moving crisis decisions into intelligence requirements, PIRs, SIRs, collection questions, owners, assumptions, and review triggers.",
+    "type": "article",
+    "image": "featured-image.webp"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "How to Build an Intelligence Requirements Framework for Crises",
+    "description": "A practical framework for turning fast-moving crisis decisions into intelligence requirements, PIRs, SIRs, collection questions, owners, assumptions, and review triggers.",
+    "image": "featured-image.webp"
+  },
+  "category": "Crisis intelligence",
+  "topic": "How to Build an Intelligence Requirements Framework for Fast-Moving Crises",
+  "featuredImage": "featured-image.webp",
+  "originalImage": "featured-image.png",
+  "authorityPack": "authority-pack.json",
+  "externalMedia": {
+    "podcast": {
+      "status": "completed",
+      "jobId": "7e67b5a1-d90d-4111-b144-d81066b7d5e8",
+      "sourceUrls": {
+        "audio": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_audio/tts/66351db4-7847-48d8-9a55-4a9d3f90a2f7.mp3",
+        "coverImage": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_images_bucket/image/01cbceb4-9a1d-489a-bade-44d32b9a6669.jpg"
+      }
+    },
+    "document": {
+      "status": "completed",
+      "jobId": "f9a7005c-2ff4-44ae-b610-6cd8970d9efd",
+      "sourceUrls": {
+        "pdf": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated-document/Crisis-Intelligence-Requirements-Decision-Linked-Framework-c4dbf8bc-74e7-44c6-9a29-be6cc858e722.pdf",
+        "coverImage": "https://wohssewzaigezyoucrsu.supabase.co/storage/v1/object/public/generated_images_bucket/snapshots/4022/cover/frontCover_862b432c-2d9b-4879-92a1-3c1a014101cd.jpg"
+      }
+    },
+    "presentation": {
+      "status": "completed",
+      "jobId": "fd9c4726-af0b-4e97-be3d-8d5f9b107a8b",
+      "sourceUrls": {
+        "presentation": "https://ai.jamesscott.tech/share/presentation/7aae9bb7-6099-4f20-a91d-134b7ffb8a12"
+      },
+      "presentationUrl": "https://ai.jamesscott.tech/share/presentation/7aae9bb7-6099-4f20-a91d-134b7ffb8a12"
+    }
+  }
+}

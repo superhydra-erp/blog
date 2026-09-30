@@ -1,0 +1,373 @@
+{
+  "version": "V3_FOUNDER_QUOTE_AUTHORITY",
+  "publicationStatus": "DRAFT_REQUIRES_HUMAN_APPROVAL",
+  "thesis": "Fast-moving crisis reporting should be graded on two separate axes: the reliability of the source and the evidentiary confidence in the specific claim. The supplied fact-check supports the article’s central argument that decision-grade crisis intelligence depends on making uncertainty visible rather than blending reputation, evidence, and urgency into one impression.",
+  "newsworthiness": {
+    "score": 5,
+    "rationale": "The topic is timely for governments, NGOs, infrastructure operators, and global leaders because crises can generate rapidly changing reports before verification is complete. The supported editorial value is practical: separating source reliability from information reliability, documenting uncertainty, and avoiding false confidence from repeated but non-independent reports.",
+    "datedPeg": "The article’s dated peg rests on 2024 source-evaluation guidance from Purdue Global and the University of Georgia, combined with FIRST’s source-evaluation curriculum and crisis-verification material in the approved source packet."
+  },
+  "keyFindings": [
+    "Source reliability and information reliability are separate judgments; a credible source can still carry an uncertain claim.",
+    "FIRST’s curriculum supports an A-to-F source-reliability scale, with F reserved for sources that cannot be judged.",
+    "FIRST separately ranks the specific information from 1 to 5, with 6 reserved when judgment cannot be made.",
+    "Repeated reports do not automatically equal independent corroboration; confidence should rise when corroboration adds independent evidence or context.",
+    "Uncertainty should be documented through provenance, dates, evidence cited, corroborating or conflicting sources, and cannot-yet-be-judged items."
+  ],
+  "methodAndLimits": [
+    "The fact-check status is pass with an overall score of 100; no unsupported, contradicted, or uncertain claims were flagged in the supplied fact-check results.",
+    "The research-quality status is pass, but the supplied packet notes limits: the evidence base relies heavily on FIRST, university guidance, Knowlesys, Pangea, and a Scientific Advice Mechanism excerpt rather than a broad set of government, humanitarian, or emergency-management doctrine.",
+    "The article’s method is a synthesis of supplied source excerpts, not a new dataset, field study, or operational benchmark.",
+    "The approved evidence supports source and information evaluation principles, but it does not establish universal action thresholds for every crisis context.",
+    "Vendor, blog, Substack, and thinly extracted sources are useful only within their stated limits and should not be treated as primary institutional doctrine."
+  ],
+  "visualPack": {
+    "thesis": "Use visuals to make the two-axis evaluation model legible: source reliability is one judgment, information confidence is another, and uncertainty must travel with the evidence trail.",
+    "figures": [
+      {
+        "title": "Two-axis crisis reliability matrix",
+        "purpose": "Show how source reliability and information reliability should be recorded separately rather than collapsed into one confidence label.",
+        "dataSources": [
+          "https://first.org/global/sigs/cti/curriculum/source-evaluation",
+          "https://pangearesearch.substack.com/p/source-reliability-and-information"
+        ],
+        "altText": "A clean two-axis matrix showing source reliability from A to F on one axis and information reliability from 1 to 6 on the other, with unknown categories clearly marked.",
+        "caption": "FIRST’s curriculum separates source reliability from information reliability; the article applies that split as the anchor for crisis source grading."
+      },
+      {
+        "title": "Corroboration that changes confidence",
+        "purpose": "Illustrate the difference between repeated mentions and independent corroboration that adds evidence, origin clarity, timestamps, or context.",
+        "dataSources": [
+          "https://knowlesys.com/en/articles/140/How_to_Verify_the_Reliability_of_Information_During_a_Crisis.html",
+          "https://purdueglobal.edu/blog/online-learning/credible-academic-sources",
+          "https://guides.libs.uga.edu/c.php?g=571070&p=3937349"
+        ],
+        "altText": "A flow diagram contrasting repeated reports from the same origin with independent channels that add new evidence, current context, and corroborating details.",
+        "caption": "Multiple mentions may raise awareness, but confidence should rise only when the added report is independent enough to test the claim."
+      },
+      {
+        "title": "Evidence trail for a crisis note",
+        "purpose": "Display the minimal documentation fields supported by the article: provenance, author or organization, date, source grade, information confidence, evidence, corroboration, conflicts, and unknowns.",
+        "dataSources": [
+          "https://first.org/global/sigs/cti/curriculum/source-evaluation",
+          "https://knowlesys.com/en/articles/140/How_to_Verify_the_Reliability_of_Information_During_a_Crisis.html",
+          "https://pangearesearch.substack.com/p/source-reliability-and-information",
+          "https://purdueglobal.edu/blog/online-learning/credible-academic-sources"
+        ],
+        "altText": "A structured crisis note template with fields for provenance, date, source grade, information confidence, evidence cited, corroborating sources, conflicting sources, and unresolved unknowns.",
+        "caption": "The supported operational takeaway is narrow: make uncertainty visible and preserve the evidence trail where crisis information may change."
+      }
+    ],
+    "heroPrompt": "Editorial visual of a clean crisis-intelligence desk: a two-axis reliability matrix, timestamped evidence cards, and a highlighted uncertainty note on a neutral background. No logos, no identifiable people, no fabricated data.",
+    "supportPrompt": "Minimal infographic showing a report moving through provenance check, source grade, claim confidence, independent corroboration, and evidence preservation. Use generic labels only; do not depict real organizations, people, or proprietary dashboards.",
+    "socialPrompt": "Square editorial graphic with the headline concept: “Grade the source. Grade the claim.” Show two separate labeled cards and an uncertainty tag. No logos, no portraits, no invented statistics.",
+    "integrityNotes": [
+      "Visuals must not imply a new dataset, field test, or measured performance outcome.",
+      "Do not use real agency logos, newsroom logos, platform interfaces, or identifiable crisis scenes.",
+      "Any matrix labels should mirror supplied evidence: A-to-F source reliability and 1-to-6 information reliability, with cannot-be-judged categories preserved.",
+      "Avoid implying that two-axis grading produces faster decisions; the supplied sources support explicit uncertainty, not speed claims."
+    ]
+  },
+  "searchAndTechnicalPack": {
+    "intentQueryMap": [
+      "how to grade source reliability during a crisis -> explain two-axis source and information evaluation",
+      "source reliability vs information reliability -> define why source reputation does not verify a specific claim",
+      "crisis intelligence uncertainty documentation -> show provenance, date, evidence, corroboration, conflicts, and unknowns",
+      "independent corroboration crisis reports -> distinguish repeated reports from evidence that changes confidence",
+      "FIRST source evaluation A to F -> connect the article to the approved FIRST curriculum"
+    ],
+    "entities": [
+      "FIRST Cyber Threat Intelligence SIG Curriculum",
+      "Source reliability",
+      "Information reliability",
+      "Forensic crisis intelligence",
+      "Decision-grade analysis",
+      "Purdue Global 2024 source-evaluation guidance",
+      "University of Georgia source reliability guidance",
+      "Scientific Advice Mechanism emergency and crisis management review",
+      "Knowlesys crisis verification article",
+      "Pangea Research source reliability and information credibility article"
+    ],
+    "retrievalFacts": [
+      "FIRST separates source reliability from information reliability.",
+      "FIRST’s source scale runs A through F, with F for cannot be judged.",
+      "FIRST’s information scale ranks a specific piece of information from 1 through 5, with 6 reserved when judgment cannot be made.",
+      "Purdue Global’s 2024 guidance emphasizes recency, context, author credentials, transparency, coverage, and professional tone.",
+      "University of Georgia guidance emphasizes author credibility, mission or purpose, credentials, evidence support, currentness, and review process.",
+      "The Scientific Advice Mechanism excerpt says crisis assessment requires critical evaluation of source reliability, data quality, potential bias, and human judgment.",
+      "Knowlesys describes crisis verification through provenance, cross-referencing, independent channels, official feeds, historical data, geospatial tools, evidence chains, and confidence scores."
+    ],
+    "internalLinkTargets": [
+      "#the-core-finding-a-credible-source-can-still-deliver-uncertain-information",
+      "#finding-1-grade-the-source-before-grading-the-claim",
+      "#finding-2-grade-the-information-on-evidence-not-reputation-alone",
+      "#finding-3-corroboration-must-be-independent-enough-to-matter",
+      "#finding-4-document-uncertainty-so-the-next-reader-can-see-the-evidence-trail"
+    ],
+    "structuredDataNotes": [
+      "Use Article structured data only if the final article title, author, publication date, and publisher fields are verified by the publishing site.",
+      "Use citation links to approved sources in the article body; do not mark founder commentary as evidentiary source material.",
+      "If FAQ schema is used, questions should map only to supported findings, such as source reliability versus information reliability and why repeated reports are not necessarily independent corroboration.",
+      "Do not add dataset, HowTo, or Review schema unless the publisher has verified structured steps, reviewed products, or original data not present in the supplied packet."
+    ],
+    "crawlChecklist": [
+      "Confirm the H1 matches the supplied article title: How to Grade Source Reliability During a Fast-Moving Crisis.",
+      "Ensure approved source URLs are crawlable in source notes or citations.",
+      "Add descriptive alt text for editorial visuals without fabricated people, logos, incidents, or statistics.",
+      "Keep anchor headings stable for retrieval and internal navigation.",
+      "Include a concise method-and-limits note explaining that the article synthesizes supplied source excerpts and does not create universal decision thresholds."
+    ]
+  },
+  "founderQuotes": [
+    {
+      "order": 1,
+      "quote": "The dangerous assumption in crisis intelligence is that a trusted channel makes the claim trustworthy. FIRST’s split says otherwise: grade the source, then grade the information, or reputation becomes a shortcut for evidence.",
+      "attribution": "James Scott, Founder, Embassy-Row-Project",
+      "quotableCore": "Reputation is not evidence; grade the source and the claim separately.",
+      "anchoredFinding": "Source reliability and information reliability are separate judgments, and a credible source can still carry a claim that is not yet well supported.",
+      "evidenceBasis": [
+        "FIRST states that information provided by a source does not necessarily objectively represent reality.",
+        "FIRST separates source reliability from information reliability.",
+        "Pangea Research reinforces that reliability belongs to the source and credibility belongs to the information."
+      ],
+      "factVsInterpretation": "The separation of source and information ratings is sourced; the warning that reputation can become a shortcut for evidence is founder commentary grounded in that sourced distinction.",
+      "whatItDoesNotProve": "It does not prove that trusted channels are generally unreliable or that two-axis grading improves decision speed.",
+      "personalExperienceCheck": "none_claimed",
+      "detachmentRisk": "low",
+      "confidence": "high",
+      "bestFit": "Contrarian tension",
+      "journalistCare": "Use as commentary after the sourced explanation of FIRST’s source-versus-information distinction; do not present it as independent evidence.",
+      "score": {
+        "evidence": 20,
+        "specificity": 14,
+        "depth": 14,
+        "originality": 12,
+        "final": 99
+      }
+    },
+    {
+      "order": 2,
+      "quote": "A usable crisis note needs two fields, not a confidence adjective: A-to-F source reliability and a separate information reliability judgment. That structure exposes whether uncertainty sits in provenance, evidence, or corroboration.",
+      "attribution": "James Scott, Founder, Embassy-Row-Project",
+      "quotableCore": "Two fields beat one vague confidence label.",
+      "anchoredFinding": "FIRST supports A-to-F source ratings and separate information reliability judgments; documentation should make uncertainty visible.",
+      "evidenceBasis": [
+        "FIRST’s source-reliability scale runs A through F, with F for cannot be judged.",
+        "FIRST separately ranks information reliability from 1 to 5, with 6 for cannot be judged.",
+        "The article’s documentation section supports recording provenance, evidence, corroboration, and unknowns."
+      ],
+      "factVsInterpretation": "The rating structure is sourced; the phrase “two fields, not a confidence adjective” is founder commentary translating the model into an editorially usable practice.",
+      "whatItDoesNotProve": "It does not establish a universal crisis-note template or mandatory workflow across all organizations.",
+      "personalExperienceCheck": "none_claimed",
+      "detachmentRisk": "low",
+      "confidence": "high",
+      "bestFit": "Mechanism",
+      "journalistCare": "Use where the article explains the two-axis assessment method; avoid implying the quote comes from operational testing.",
+      "score": {
+        "evidence": 20,
+        "specificity": 14,
+        "depth": 13,
+        "originality": 11,
+        "final": 97
+      }
+    },
+    {
+      "order": 3,
+      "quote": "When reports multiply, the operator’s question is not ‘how many mentions?’ but ‘what new evidence arrived?’ Independent channels, timestamps, official feeds, geospatial checks, and preserved metadata matter because repetition can manufacture confidence.",
+      "attribution": "James Scott, Founder, Embassy-Row-Project",
+      "quotableCore": "Corroboration should add evidence, not just repetitions.",
+      "anchoredFinding": "Repeated reports do not equal independent corroboration; confidence should rise only when corroboration adds independent evidence or clarifies context.",
+      "evidenceBasis": [
+        "Knowlesys describes cross-referencing data points, checking consistency across independent channels, validating against official feeds, historical data, and geospatial tools, and preserving posts, videos, and metadata.",
+        "Purdue Global supports comparing multiple sources from different dates to understand context and currentness.",
+        "University of Georgia supports checking currentness and reliability of cited sources."
+      ],
+      "factVsInterpretation": "The listed corroboration mechanisms are sourced; the phrase “repetition can manufacture confidence” is founder commentary based on the supported caution against treating repeated reports as independent confirmation.",
+      "whatItDoesNotProve": "It does not prove a quantified rate of circular reporting or misinformation during crises.",
+      "personalExperienceCheck": "none_claimed",
+      "detachmentRisk": "low",
+      "confidence": "high",
+      "bestFit": "Operator rule",
+      "journalistCare": "Use as a practical quote in the corroboration section; keep Knowlesys’s vendor status disclosed elsewhere in the article.",
+      "score": {
+        "evidence": 20,
+        "specificity": 14,
+        "depth": 14,
+        "originality": 12,
+        "final": 98
+      }
+    },
+    {
+      "order": 4,
+      "quote": "The hidden cost of faster escalation is often untracked uncertainty. If teams escalate claims without source grades, evidence support, and conflict notes, the next decision-maker inherits a polished briefing but loses the audit trail.",
+      "attribution": "James Scott, Founder, Embassy-Row-Project",
+      "quotableCore": "Fast escalation can erase the audit trail if uncertainty is not tracked.",
+      "anchoredFinding": "Uncertainty should be visible in the evidence trail, including source grade, information confidence, evidence cited, corroborating or conflicting sources, and unknowns.",
+      "evidenceBasis": [
+        "Pangea Research states that formal systems make assessments explicit, documented, and transferable.",
+        "FIRST supports separate source and information ratings, including cannot-be-judged categories.",
+        "Knowlesys describes auditable reports with evidence chains and confidence scores."
+      ],
+      "factVsInterpretation": "The need to document assessments and evidence chains is sourced; the hidden-cost framing is founder commentary about the second-order consequence of losing transferability.",
+      "whatItDoesNotProve": "It does not prove that all fast escalation causes poor decisions or that every organization lacks audit trails.",
+      "personalExperienceCheck": "none_claimed",
+      "detachmentRisk": "low",
+      "confidence": "high",
+      "bestFit": "System implication",
+      "journalistCare": "Use as commentary on documentation discipline; do not state that James Scott personally observed these failures unless separately verified.",
+      "score": {
+        "evidence": 19,
+        "specificity": 14,
+        "depth": 14,
+        "originality": 12,
+        "final": 96
+      }
+    },
+    {
+      "order": 5,
+      "quote": "In a fast crisis, the disciplined posture is not pretending doubt disappeared; it is making doubt legible. Source reliability, claim support, corroboration status, and update history should travel with the report.",
+      "attribution": "James Scott, Founder, Embassy-Row-Project",
+      "quotableCore": "Make doubt legible and keep it attached to the report.",
+      "anchoredFinding": "The article concludes that the defensible crisis posture is to make uncertainty visible, grade the source, grade the information, corroborate where possible, preserve evidence, and update assessments as facts change.",
+      "evidenceBasis": [
+        "FIRST supports source and information ratings, including categories for judgments that cannot be made.",
+        "Pangea Research supports explicit, documented, transferable assessments.",
+        "Knowlesys supports evidence preservation and auditable evidence chains.",
+        "Purdue Global and University of Georgia support recency and currentness checks."
+      ],
+      "factVsInterpretation": "The underlying practices are sourced; the durable principle that doubt should be made legible is founder commentary synthesizing those practices.",
+      "whatItDoesNotProve": "It does not prove that uncertainty documentation resolves the crisis or replaces human judgment.",
+      "personalExperienceCheck": "none_claimed",
+      "detachmentRisk": "low",
+      "confidence": "high",
+      "bestFit": "Durable principle",
+      "journalistCare": "Use as a closing quote; keep it framed as commentary, not as an empirical finding.",
+      "score": {
+        "evidence": 19,
+        "specificity": 13,
+        "depth": 13,
+        "originality": 11,
+        "final": 95
+      }
+    }
+  ],
+  "journalistKit": {
+    "nutGraf": "The article argues that crisis teams should stop treating source credibility and claim confidence as the same thing. FIRST’s curriculum supports separate ratings for the originator and the information, while 2024 university guidance and crisis-verification sources reinforce recency, provenance, evidence support, independent corroboration, and transparent uncertainty notes. The practical takeaway is narrow but defensible: make uncertainty visible before crisis reports are escalated.",
+    "angles": [
+      "Contrarian angle: a trusted source does not automatically make a crisis claim trustworthy.",
+      "Operational angle: a two-field crisis note can separate source reliability from information confidence.",
+      "Verification angle: repeated reports should not be counted as independent corroboration unless they add evidence or context.",
+      "Governance angle: uncertainty documentation protects the next decision-maker from inheriting a polished but unauditable briefing.",
+      "Limits angle: the evidence supports evaluation principles, not universal action thresholds for every crisis context."
+    ],
+    "peopleToCall": [
+      "A cyber threat intelligence practitioner familiar with FIRST or Admiralty-style source evaluation.",
+      "An emergency-management information officer who handles rapidly changing public information.",
+      "A humanitarian information-management specialist who documents provenance and uncertainty in situation reporting.",
+      "An OSINT verification trainer with experience in geolocation, metadata preservation, and independent corroboration.",
+      "A library or information-science expert who teaches source credibility, recency, author credentials, and evidence support."
+    ],
+    "rightsAndAttribution": [
+      "Founder quotes are draft commentary attributed to James Scott, Founder, Embassy-Row-Project, and require human approval before publication.",
+      "Do not treat founder commentary as evidence; keep public sources and commentary clearly separated.",
+      "Use approved source URLs for factual claims and cite them independently of quote cards.",
+      "Do not imply James Scott personally built, measured, led, or observed the practices described unless separate biographical evidence is supplied.",
+      "Avoid reproducing third-party tables or source text beyond brief attributed references unless rights are cleared."
+    ],
+    "methodCard": "This pack uses the supplied article, research-quality review, and fact-check results. The fact-check passed with all listed claims supported. The pack treats founder quotes as interpretive commentary grounded in approved findings, not as independent evidence. The evidence base supports two-axis source and information evaluation, corroboration checks, uncertainty documentation, and preservation of evidence trails, but not universal crisis-action thresholds.",
+    "risks": [
+      "The research packet is useful but not exhaustive; it lacks broad primary doctrine from government, humanitarian, emergency-management, and infrastructure-sector bodies.",
+      "Knowlesys is promotional and should be used cautiously for general verification language, not product claims.",
+      "Pangea is a Substack source and should be used as supporting commentary rather than primary doctrine.",
+      "Some supplied publication dates appear machine-generated or unusual, so freshness should be described cautiously.",
+      "Operational recommendations should remain framed as supported practices, not proven performance improvements."
+    ],
+    "founderCommentaryTop2": [
+      1,
+      3
+    ]
+  },
+  "sourceLedger": [
+    {
+      "sourceUrl": "https://first.org/global/sigs/cti/curriculum/source-evaluation",
+      "supportedFinding": "Source reliability and information reliability are separate judgments; FIRST provides A-to-F source ratings and 1-to-6 information reliability structure with cannot-be-judged categories.",
+      "limitation": "The supplied excerpt supports rating principles but not universal action thresholds or full operational workflows for every crisis context."
+    },
+    {
+      "sourceUrl": "https://purdueglobal.edu/blog/online-learning/credible-academic-sources",
+      "supportedFinding": "Recency, author credentials, institutional affiliation, transparency, comprehensive coverage, professional tone, and comparison across sources from different dates are relevant source-evaluation criteria.",
+      "limitation": "This is general source-evaluation guidance rather than crisis-specific intelligence doctrine."
+    },
+    {
+      "sourceUrl": "https://idl.iscram.org/files/endsley/2014/475_Endsley_etal2014.pdf",
+      "supportedFinding": "The accepted research packet identifies crisis-information credibility as relevant to information dissemination in connected environments.",
+      "limitation": "The supplied extracted content is thin, so it should not carry major article claims without further review."
+    },
+    {
+      "sourceUrl": "https://scientificadvice.eu/scientific-outputs/artificial-intelligence-in-emergency-and-crisis-management-rapid-evidence-review-report",
+      "supportedFinding": "Crisis assessment requires critical evaluation of source reliability, data quality, potential bias, and human judgment, particularly when information may be manipulated.",
+      "limitation": "The supplied packet includes an excerpt; use only the supported claims and avoid extending it to unverified AI or emergency-management conclusions."
+    },
+    {
+      "sourceUrl": "https://guides.libs.uga.edu/c.php?g=571070&p=3937349",
+      "supportedFinding": "Author credibility, mission and purpose, verifiable credentials, evidence support, currentness, footnotes, cited-source reliability, and review process are relevant reliability criteria.",
+      "limitation": "This is university source-evaluation guidance and only partly crisis-specific."
+    },
+    {
+      "sourceUrl": "https://liberty91.com/docs/reference/source-reliability-and-confidence",
+      "supportedFinding": "The source reinforces the distinction between source reliability and claim credibility or information confidence.",
+      "limitation": "It is platform documentation, so it should support definitions cautiously rather than serve as independent doctrine."
+    },
+    {
+      "sourceUrl": "https://pangearesearch.substack.com/p/source-reliability-and-information",
+      "supportedFinding": "Formal systems can make source and information assessments explicit, documented, transferable, and visible as separate dimensions.",
+      "limitation": "It is a Substack source and should not be treated as primary institutional authority."
+    },
+    {
+      "sourceUrl": "https://knowlesys.com/en/articles/140/How_to_Verify_the_Reliability_of_Information_During_a_Crisis.html",
+      "supportedFinding": "Crisis verification can include provenance checks, independent channels, official feeds, historical data, geospatial tools, preservation of posts, metadata, evidence chains, and confidence scores.",
+      "limitation": "The source is promotional and tied to a product offering; use only its general verification language and disclose limits where relevant."
+    }
+  ],
+  "authorityPlan": {
+    "internalLinks": [
+      "Link from the introduction to the article’s core-finding section on separating source reliability from information reliability.",
+      "Link from any checklist summary to the source-grading section anchored on FIRST’s A-to-F model.",
+      "Link from discussion of repeated reports to the corroboration section on independent evidence.",
+      "Link from the call to action to the documentation section on evidence trails and uncertainty notes."
+    ],
+    "retrievalFacts": [
+      "A credible source can still carry uncertain information.",
+      "An unknown source should be marked cannot be judged rather than automatically treated as false.",
+      "Information confidence should depend on evidence support, currentness, logical consistency, and corroboration status.",
+      "Repeated reports should be tested for independence before they raise confidence.",
+      "The available sources support evaluation principles but not universal decision thresholds."
+    ],
+    "entityNotes": [
+      "FIRST is the strongest anchor entity because it directly separates source reliability from information reliability.",
+      "Purdue Global and University of Georgia provide 2024 source-evaluation criteria but are not crisis-intelligence doctrine.",
+      "Scientific Advice Mechanism supplies crisis-specific support for human judgment, source reliability, data quality, and bias evaluation.",
+      "Knowlesys supplies crisis-verification mechanisms, but its vendor context limits its authority.",
+      "Pangea Research supports documentation and transferability concepts, but its Substack format limits authority relative to primary doctrine."
+    ]
+  },
+  "scorecard": {
+    "total": 94,
+    "editorial": 19,
+    "evidence": 19,
+    "searchAi": 13,
+    "technical": 9,
+    "visual": 8,
+    "trust": 5,
+    "packaging": 10,
+    "prose": 1
+  },
+  "killSwitch": {
+    "status": "SHIP",
+    "reasons": [
+      "Fact-check status is pass with overall score 100 and no unsupported or contradicted claims in the supplied results.",
+      "The supplied evidence is sufficient to support five high-confidence founder quote cards as commentary, with public sources kept separate from founder commentary.",
+      "The research-quality limitations require careful framing, but they do not prevent publication of this draft support pack for human editorial approval."
+    ]
+  }
+}
